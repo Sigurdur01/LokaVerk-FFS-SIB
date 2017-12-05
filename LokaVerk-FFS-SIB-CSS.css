@@ -85,6 +85,10 @@ body{
 .topnav {
     background-color: gray;
     overflow: hidden;
+    position:fixed;
+    top:0px;
+    width:100%;
+    border:solid #fff 5px;
 }
 
 /* Style the links inside the navigation bar */
