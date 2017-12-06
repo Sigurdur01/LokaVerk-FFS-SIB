@@ -15,7 +15,17 @@ header{
 	border:solid black 5px;
 }
 
+/*--------------------------------------------------------------*/
+iframe{
+	margin:50px;
+	border:solid 5px grey;
+	border-radius: 	5%;
+}
 
+body{
+	background: rgb(249,158,26);
+}
+/*-------------------------------------------------------*/
 
 .sections{
 	height:100vh;
@@ -39,9 +49,7 @@ header{
 
 /*---------------------------------------------------------------------------*/
 
-body{
-	background: rgb(249,158,26);
-}
+
 
 .backg{
 	background-image: url("Overwatch-Background2.0.jpg");
